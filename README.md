@@ -1,2 +1,2 @@
 # Portfolio-tracker
-Automated stock portfolio tracker with real-time monitoring
+Real-time stock portfolio monitoring with drift detection and Google Sheets dashboard
